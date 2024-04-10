@@ -1,4 +1,13 @@
-<img title="programer.gif" src="https://cdn.dribbble.com/users/14374/screenshots/3147608/media/81669459ec186752d08de4d29a83e309.gif" />
+ <img
+      style="
+        width: 100%;
+        height: 700px;
+        object-fit: cover;
+        object-position: bottom;
+      "
+      src="https://res.cloudinary.com/dyoygzkhe/image/upload/v1712777501/4884785_z6pc4t.jpg"
+      alt="Awesome README Templates"
+    />
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
