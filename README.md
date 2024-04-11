@@ -1,13 +1,13 @@
- <img
-      style="
-        width: 100%;
-        height: 700px;
-        object-fit: cover;
-        object-position: bottom;
-      "
-      src="https://res.cloudinary.com/dyoygzkhe/image/upload/v1712777501/4884785_z6pc4t.jpg"
-      alt="Awesome README Templates"
-    />
+<img
+  style="
+    width: 100%;
+    height: 400px; /* Adjust this value to your desired height */
+    object-fit: cover;
+    object-position: bottom;
+  "
+  src="https://res.cloudinary.com/dyoygzkhe/image/upload/v1712777501/4884785_z6pc4t.jpg"
+  alt="Awesome README Templates"
+/>
 
 
 ### <img alt="handwavegif" src="https://user-images.githubusercontent.com/39513876/112366216-8cfe7400-8cfe-11eb-8116-7d3dbae20e97.gif" width='40' align="left"/> Hello there !
