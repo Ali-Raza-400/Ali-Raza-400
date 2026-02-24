@@ -16,7 +16,6 @@
 [![GitHub Ali Raza](https://img.shields.io/github/followers/AliRaza?label=follow&style=social)](https://github.com/Ali-Raza-400)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
-
 💡 &nbsp; I'am a website developer specializing in the MERN stack and working as FullStack developer \
 💻 &nbsp;I'am currently working as a software developer in a tech company. \
 🎓&nbsp;I graduated form Lahore Garrison University (Bachelor of Science in Computer Science, Batch of 2018-2022).\
@@ -24,7 +23,7 @@
 ✍️ &nbsp;In my free time, I play guitar, football and pursue writing as my hobbies.\
 💬 &nbsp;Feel free to reach out to me for general consulting, or discussions on the Programming and software developement topics!\
 ✉️ &nbsp;You can email me at codewithdevelopement@gmail.com I'll try to respond as soon as possible!\
-📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1APf8exYUfZACWNUn0Og4xcw_b75Ad1lg/view) for more details about work experience.
+📄 &nbsp;You can check my [Resume]([https://drive.google.com/file/d/1APf8exYUfZACWNUn0Og4xcw_b75Ad1lg/view](https://drive.google.com/file/d/1AT2uyUkogmzx95FfK6gwIU5_O0B_OaDK/view)) for more details about work experience.
 
 
 ### 🛠 &nbsp;Tech Stack
