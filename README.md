@@ -5,7 +5,7 @@
     object-fit: cover;
     object-position: bottom;
   "
-  src="https://res.cloudinary.com/dyoygzkhe/image/upload/v1712777501/4884785_z6pc4t.jpg"
+  src="https://res.cloudinary.com/dyoygzkhe/image/upload/q_auto/f_auto/v1776451837/Gemini_Generated_Image_218m4q218m4q218m_nrtz0t.png"
   alt="Awesome README Templates"
 />
 
